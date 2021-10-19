@@ -5,7 +5,11 @@
     justify-content: space-between;
     margin: 0px !important;
     max-width: 100%;
+<<<<<<< HEAD
     background-color: rgba(0, 0, 0, 0.35);
+=======
+    background-color: rgba(67, 209, 207, 0.35);
+>>>>>>> e2a43a3b58938740747d7af59ddf68cbab8b0e77
     width: 100%;
     right: 0px;
 }
@@ -30,10 +34,13 @@
     color: #696969;
 }
 
+<<<<<<< HEAD
 .header ul{
     list-style: none;
 }
 
+=======
+>>>>>>> e2a43a3b58938740747d7af59ddf68cbab8b0e77
 .logo{
     max-width: 150px;
     max-height: 150px;
@@ -96,7 +103,11 @@
 /* Footer */
 
 .footer{
+<<<<<<< HEAD
     background-color: rgba(31, 32, 32, 0.35);
+=======
+    background-color: rgba(67, 209, 207, 0.35);
+>>>>>>> e2a43a3b58938740747d7af59ddf68cbab8b0e77
     max-width: 100% !important;
     margin: 0px !important;
     justify-content: center;
