@@ -23,26 +23,23 @@ body {
   
     color: white;
   }
+
   #cabecalho{
-<<<<<<< HEAD
     background-color: #000000;
-=======
-    background-color: #43D1CF;
->>>>>>> e2a43a3b58938740747d7af59ddf68cbab8b0e77
+    background-color: #3b3939;
     height: 60px;
   }
   #rodape{
     
     padding-top: 10%;
-    height: 30%;
+    height: 50%;  
   }
+
   #texto {
-<<<<<<< HEAD
     background-color: #3d3d3d;
-=======
-    background-color: #43D1CF;
->>>>>>> e2a43a3b58938740747d7af59ddf68cbab8b0e77
+    background-color: #4c4747;
     text-align: center;
+    color: white;
   }
   #profissa {
     height: 103%;
@@ -51,18 +48,18 @@ body {
   
   #botao {
     color: #fff;
-<<<<<<< HEAD
     background-color: #141414;
     border-color: #b1b1b1;
   }
+
   #iconn {
     background-color: #0c0c0f;
     border-color: #0c0e0d;
     color: white;
   }
+
   #iconn1 {
     background-color: #101111;
-=======
     background-color: #43D1CF;
     border-color: #43D1CF;
   }
@@ -73,7 +70,6 @@ body {
   }
   #iconn1 {
     background-color: #43D1CF;
->>>>>>> e2a43a3b58938740747d7af59ddf68cbab8b0e77
     border-color: #43D1CF;
     color: white;
   }
@@ -105,11 +101,9 @@ body {
   }
   .header
   {
-<<<<<<< HEAD
     background-color: rgb(8, 8, 8);
-=======
     background-color: blue;
->>>>>>> e2a43a3b58938740747d7af59ddf68cbab8b0e77
+
   }
   .Titulo
   {

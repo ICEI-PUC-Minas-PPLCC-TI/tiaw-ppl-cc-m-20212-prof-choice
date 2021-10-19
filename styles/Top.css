@@ -22,15 +22,12 @@
 .header ul li a{
     color: #000000 ;
     text-decoration: none;
-<<<<<<< HEAD
     font-size: large;
 }
 
 .header ul li :hover{
     color: #4c4d5f;
     
-=======
->>>>>>> e2a43a3b58938740747d7af59ddf68cbab8b0e77
 }
 
 /* mobile changes */

@@ -10,21 +10,16 @@
     
 }
 
-<<<<<<< HEAD
-=======
 
->>>>>>> e2a43a3b58938740747d7af59ddf68cbab8b0e77
 .ciencia a{
     color: black !important;
     text-decoration: none;
 }
 
 .ciencia p{
-<<<<<<< HEAD
     color:rgb(0, 0, 0);
-=======
     color:rgb(233, 233, 233);
->>>>>>> e2a43a3b58938740747d7af59ddf68cbab8b0e77
+
 }
 .ciencia:hover {
     background-color: rgba(3, 14, 13, 0.35);
@@ -35,14 +30,13 @@
 
 .header ul li a{
     color: #000000;
-<<<<<<< HEAD
+
     font-size: large;  
 }
 
 .header ul li :hover{
     color: #4c4d5f;
-=======
->>>>>>> e2a43a3b58938740747d7af59ddf68cbab8b0e77
+
     
 }
 
@@ -59,10 +53,7 @@
     width: 1000px;
     padding-right: 20px;
     padding-top: 20px;
-<<<<<<< HEAD
-=======
-    
->>>>>>> e2a43a3b58938740747d7af59ddf68cbab8b0e77
+
 }
 
 .menu1{
@@ -85,14 +76,11 @@
     border-color: #000000 !important;
 }
 
-<<<<<<< HEAD
 
 .header a{
     color: #000000;
 }
 
-=======
->>>>>>> e2a43a3b58938740747d7af59ddf68cbab8b0e77
 #menuToggle{
     display: none;
 }
@@ -109,11 +97,8 @@
 
 .logo{
     max-width: 150px;
-<<<<<<< HEAD
     max-height: 130px;
-=======
-    max-height: 56px;
->>>>>>> e2a43a3b58938740747d7af59ddf68cbab8b0e77
+    max-height: 150px;
     padding-left: 10px;
 }
 
@@ -139,11 +124,10 @@
 }
 
 .aval{
-<<<<<<< HEAD
+
     background-color: rgba(75, 75, 75, 0.61);
-=======
     background-color: rgba(0, 0, 0, 0.61);
->>>>>>> e2a43a3b58938740747d7af59ddf68cbab8b0e77
+
     border-radius: 20px;
     align-items: center;
     margin-top: 15px;
@@ -174,7 +158,7 @@
 
 .teste{
     justify-content: center;
-    background-color: #D8DEE5;
+    background-color: #000000;
 }
 
 .textoVoc{
@@ -197,6 +181,10 @@
 
 .botãoVoc{
     justify-content: center;
+}
+
+.botãoVoc:hover{
+    background-color: white;
 }
 
 .main{

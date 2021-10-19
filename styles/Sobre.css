@@ -9,14 +9,11 @@
     background-color: rgba(0, 0, 0, 0.35);
 }
 
-<<<<<<< HEAD
 .header ul li :hover{
     color: #4c4d5f;
     
 }
 
-=======
->>>>>>> e2a43a3b58938740747d7af59ddf68cbab8b0e77
 /* mobile changes */
 
 .menu{
@@ -42,11 +39,9 @@
 }
 
 .btn-primary{
-<<<<<<< HEAD
+
     background-color: #000000 !important;
-=======
     background-color: #696969 !important;
->>>>>>> e2a43a3b58938740747d7af59ddf68cbab8b0e77
     border-color: #000000 !important;
 }
 
@@ -66,11 +61,8 @@
 
 .logo{
     max-width: 150px;
-<<<<<<< HEAD
     max-height: 100px;
-=======
-    max-height: 56px;
->>>>>>> e2a43a3b58938740747d7af59ddf68cbab8b0e77
+    max-height: 150px;
     padding-left: 10px;
 }
 
