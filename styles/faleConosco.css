@@ -28,7 +28,7 @@
 
 
 .header ul li :hover{
-    color: #4c4d5f;
+    color: #ffffff;
     
 }
 
@@ -55,8 +55,8 @@
 /* fim mobile changes */
 
 .btn-primary{
-    background-color: #696969 !important;
-    border-color: #696969 !important;
+    background-color: #000000 !important;
+    border-color: #000000 !important;
 }
 
 #menuToggle{
@@ -70,7 +70,7 @@
 }
 
 .li_texto a{
-    color: #696969 !important;
+    color: #000000 !important;
 }
 
 .logo{

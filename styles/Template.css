@@ -45,6 +45,10 @@
     border-color: #696969 !important;
 }
 
+.btn-primary:hover{
+color:grey;
+}
+
 #menuToggle{
     display: none;
 }

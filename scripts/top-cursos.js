@@ -29,8 +29,7 @@
     {
       avaliacao: 4.5,
       categorias: ['Direito', 'Advocacia'],
-      descricao:
-        'O profissional formado no curso de Direito podem optar por seguir a carreira jurídica ou se tornar advogado. As duas opções oferecem diversas profissões e caminhos a seguir. Para atuar como advogado, o bacharel em Direito precisa realizar o Exame da OAB (Ordem dos Advogados do Brasil). Somente após ser aprovado nesta prova é que o profissional recebe o registro na OAB e pode exercer a profissão.',
+      descricao:  'O profissional formado no curso de Direito podem optar por seguir a carreira jurídica ou se tornar advogado. As duas opções oferecem diversas profissões e caminhos a seguir. Para atuar como advogado, o bacharel em Direito precisa realizar o Exame da OAB (Ordem dos Advogados do Brasil). Somente após ser aprovado nesta prova é que o profissional recebe o registro na OAB e pode exercer a profissão.',
       imagem: 'imgs/direito.jpg',
       titulo: 'Direito',
       comentarios: 28,
@@ -84,8 +83,7 @@
     {
       avaliacao: 4,
       categorias: ['Matemática'],
-      descricao:
-        'O engenheiro aeroespacial projeta sistemas e conjuntos mecânicos, componentes, ferramentas e materiais, especificando limites de referência para cálculo.',
+      descricao: 'O engenheiro aeroespacial projeta sistemas e conjuntos mecânicos, componentes, ferramentas e materiais, especificando limites de referência para cálculo.',
       imagem: 'imgs/aeroespacial.jpg',
       titulo: 'Engenharia Aeroespacial',
       comentarios: 8,

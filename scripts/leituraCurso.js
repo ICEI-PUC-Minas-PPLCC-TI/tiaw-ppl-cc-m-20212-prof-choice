@@ -77,6 +77,80 @@
         'Física',
       ],
     },
+    3: {
+      titulo: 'Direito',
+      avaliacao: 5,
+      imagem: 'imgs/direito2.jpg',
+      remuneracao: 'R$ 6.373,89',
+      empregados: '467 mil',
+      textoprincipal: [
+        'O profissional formado no curso de Direito podem optar por seguir a carreira jurídica ou se tornar advogado. A principal atividade de um advogado é representar e defender os interesses de seus clientes com base nas leis vigentes do país. Ele pode representar pessoas físicas e jurídicas. Outro campo que pode ser explorado pelo bacharel em Direito é a magistratura, uma das carreiras jurídicas mais desejadas entre os profissionais, mesmo com as grandes responsabilidades que envolvem a profissão.'
+      ],
+      tituloramificacao: `A área de Direito abre portas para muitas ramificações inportantes para atualidade como:`,
+      ramificacao: [
+        {
+          titulo: `Direito Civil - `,
+          texto: `É considerada a maior área do Direito brasileiro. Justamente por isso, envolve diferentes especializações. Ao escolher o Direito Civil e o Direito Processual Civil o profissional deverá lidar com a representação de interesses individuais e particulares relacionados a bens, propriedades e questões familiares.`,
+        },
+        {
+          titulo: `Direito Ambiental - `,
+          texto: `Nesta área, o profissional poderá atuar em ONGs e empresas privadas em questões referentes à responsabilidade com o meio ambiente. Portanto, licenciamento ambiental, infrações e outros aspectos da legislação ambiental farão parte de seu dia a dia.`,
+        },
+        {
+          titulo: `Direito Digital - `,
+          texto: `O Direito Digital é um dos novos ramos do Direito. E após o Marco Civil da Internet, essa área se tornou um mercado crescente. Por isso, o advogado especialista em Direito Digital é um profissional bastante valorizado. Neste ramo de atuação, ele será responsável por questões jurídicas relacionadas à internet e à informática. Prepare-se para lidar com relações entre usuários e seus provedores, além de todo tipo de e-commerce e bancos.`,
+        },
+        {
+          titulo: `Direito Comercial - `,
+          texto: `É a área do Direito relacionada aos aspectos jurídicos do comércio. Ou seja: o profissional vai defender os interesses de empresários e seus negócios.`,
+        },
+      ],
+      titulo3: `Qual é o perfil do profissional formado em Direito:`,
+      subtexto: `O perfil do profissional do Direito, ao contrário do que muitos pensam, não é introvertido ou solitário, características como boa desenvoltura ao falar e escrever, ter raciocínio rápido, memória boa e ser bem sociável e flexível, se tornaram fundamentais para as novas demandas da sociedade. Além disso, o curso de Direito exige muita leitura e dedicação, então, ser organizado é fundamental.`,
+      caracteristica: [
+        'História',
+        'Filosofia',
+        'Trabalho em equipe',
+        'Política',
+      ],
+    },
+    4: {
+      titulo: 'Medicina',
+      avaliacao: 5,
+      imagem: 'imgs/direito2.jpg',
+      remuneracao: 'R$ 6.373,89',
+      empregados: '467 mil',
+      textoprincipal: [
+        'O profissional formado no curso de Direito podem optar por seguir a carreira jurídica ou se tornar advogado. A principal atividade de um advogado é representar e defender os interesses de seus clientes com base nas leis vigentes do país. Ele pode representar pessoas físicas e jurídicas. Outro campo que pode ser explorado pelo bacharel em Direito é a magistratura, uma das carreiras jurídicas mais desejadas entre os profissionais, mesmo com as grandes responsabilidades que envolvem a profissão.'
+      ],
+      tituloramificacao: `A área de Direito abre portas para muitas ramificações inportantes para atualidade como:`,
+      ramificacao: [
+        {
+          titulo: `Direito Civil - `,
+          texto: `É considerada a maior área do Direito brasileiro. Justamente por isso, envolve diferentes especializações. Ao escolher o Direito Civil e o Direito Processual Civil o profissional deverá lidar com a representação de interesses individuais e particulares relacionados a bens, propriedades e questões familiares.`,
+        },
+        {
+          titulo: `Direito Ambiental - `,
+          texto: `Nesta área, o profissional poderá atuar em ONGs e empresas privadas em questões referentes à responsabilidade com o meio ambiente. Portanto, licenciamento ambiental, infrações e outros aspectos da legislação ambiental farão parte de seu dia a dia.`,
+        },
+        {
+          titulo: `Direito Digital - `,
+          texto: `O Direito Digital é um dos novos ramos do Direito. E após o Marco Civil da Internet, essa área se tornou um mercado crescente. Por isso, o advogado especialista em Direito Digital é um profissional bastante valorizado. Neste ramo de atuação, ele será responsável por questões jurídicas relacionadas à internet e à informática. Prepare-se para lidar com relações entre usuários e seus provedores, além de todo tipo de e-commerce e bancos.`,
+        },
+        {
+          titulo: `Direito Comercial - `,
+          texto: `É a área do Direito relacionada aos aspectos jurídicos do comércio. Ou seja: o profissional vai defender os interesses de empresários e seus negócios.`,
+        },
+      ],
+      titulo3: `Qual é o perfil do profissional formado em Direito:`,
+      subtexto: `O perfil do profissional do Direito, ao contrário do que muitos pensam, não é introvertido ou solitário, características como boa desenvoltura ao falar e escrever, ter raciocínio rápido, memória boa e ser bem sociável e flexível, se tornaram fundamentais para as novas demandas da sociedade. Além disso, o curso de Direito exige muita leitura e dedicação, então, ser organizado é fundamental.`,
+      caracteristica: [
+        'História',
+        'Filosofia',
+        'Trabalho em equipe',
+        'Política',
+      ],
+    },
   }
   const urlParams = new URLSearchParams(window.location.search)
   let busca = urlParams.get('id')

@@ -15,6 +15,7 @@
     margin: 0px;
 }
 
+
 .header ul{
     list-style: none;
 }
@@ -26,7 +27,7 @@
 }
 
 .header ul li :hover{
-    color: #4c4d5f;
+    color: #ffffff;
     
 }
 
