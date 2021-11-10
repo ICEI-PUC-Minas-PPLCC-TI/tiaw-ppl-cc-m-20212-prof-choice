@@ -22,6 +22,11 @@
 
 .header ul li a{
     color: #000000;
+    text-decoration: none;
+}
+
+.header ul li a:hover{
+    color: white;
 }
 
 /* mobile changes */
@@ -70,8 +75,8 @@ color:grey;
 }
 
 .btn-outline-success{
-    color: #696969 !important;
-    border-color: #696969 !important;
+    color: #272727 !important;
+    border-color: #252525 !important;
     background-color: transparent !important;
 }
 

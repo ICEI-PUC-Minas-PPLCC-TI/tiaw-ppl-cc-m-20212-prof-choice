@@ -17,6 +17,8 @@
     margin: 0px;
 }
 
+
+
 .menu{
     max-width: 100%;
     display: flex;
@@ -24,9 +26,11 @@
 }
 
 .btn-primary{
-    background-color: #696969 !important;
-    border-color: #696969 !important;
+    background-color: #3b3b3b !important;
+    border-color: #383838 !important;
 }
+
+
 
 .header p a{
     color: #696969;

@@ -14,6 +14,14 @@
     
 }
 
+.header ul li a{
+    text-decoration: none;
+}
+
+#cada:hover{
+    color: gray;
+}
+
 /* mobile changes */
 
 .menu{
@@ -41,8 +49,8 @@
 .btn-primary{
 
     background-color: #000000 !important;
-    background-color: #696969 !important;
-    border-color: #000000 !important;
+    background-color: #3f3f3f !important;
+    border-color: #494949 !important;
 }
 
 .header a{
@@ -67,8 +75,8 @@
 }
 
 .btn-outline-success{
-    color: #696969 !important;
-    border-color: #696969 !important;
+    color: #1d1c1c !important;
+    border-color: #1a1a1a !important;
     background-color: transparent !important;
 }
 

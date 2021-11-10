@@ -24,19 +24,23 @@
 .ciencia:hover {
     background-color: rgba(3, 14, 13, 0.35);
   }
+  
 .header ul{
     list-style: none;
 }
 
 .header ul li a{
     color: #000000;
-
     font-size: large;  
+    text-decoration: none;
 }
 
-.header ul li :hover{
-    color: #ffffff;
-    
+.header ul li a:hover{
+    color: white;
+}
+
+#cada:hover{
+    color: gray ;
 }
 
 .testeVoc{
@@ -122,6 +126,7 @@
     border-color: #000000 !important;
     background-color: transparent !important;
 }
+
 
 .navbar.bg-light{
     background-color: transparent !important;

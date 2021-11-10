@@ -48,8 +48,12 @@
 /* fim mobile changes */
 
 .btn-primary{
-    background-color: #000000 !important;
-    border-color: #000000 !important;
+    background-color: #424242 !important;
+    border-color: #383838 !important;
+}
+
+#cada:hover{
+    color: grey;
 }
 
 #menuToggle{

@@ -6,10 +6,15 @@ img{
 }
 
 .header ul li :hover{
-    color: #ffffff;
+    color: #5c5c5c;
     
 }
 
 #voltar:hover{
-    color: grey;
+    color: rgb(151, 151, 151);
+}
+
+.header img{
+    max-height: 100%;
+    max-width: 100%;
 }
