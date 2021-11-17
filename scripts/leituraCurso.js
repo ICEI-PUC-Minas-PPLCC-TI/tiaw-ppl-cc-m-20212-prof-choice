@@ -232,38 +232,149 @@
       titulo: 'Engenharia Aeronáutica',
       avaliacao: 5,
       imagem: 'imgs/aeronautica.jpg',
-      remuneracao: 'R$ 5.772,56',
+      remuneracao: 'R$ 7.772,56',
       empregados: '430 mil',
       textoprincipal: [
-        'O profissional formado em ciências contábeis desenvolve atividades variadas tanto no setor público quanto na esfera privada. É quem administra, acompanha e gere as contas de uma instituição, registrando as despesas, as receitas e os lucros, tendo ainda competência para fazer as declarações de imposto de renda.'
+        'A Engenharia Aeronáutica é a área responsável pelo projeto e fabricação de aeronaves. O seu conhecimento é amplo e envolve diferentes campos das Ciências Exatas. O engenheiro aeronáutico pode atuar com diferentes tipos de aeronaves, helicópteros e planadores. Além da elaboração de projetos, o profissional também executa atividades voltadas para a manutenção.'
       ],
-      tituloramificacao: `A área de Ciências contábeis abre portas para muitas ramificações inportantes para atualidade como:`,
+      tituloramificacao: `A área de Engenharia Aeronáutica abre portas e o profissional pode atuar em áreas como:`,
       ramificacao: [
         {
-          titulo: `Ciências Contábeis Ambientais - `,
-          texto: `A Contabilidade Ambiental é outro ramo de atuação profissional que está em crescimento e representa uma tendência no mercado atual. O seu principal foco é unir o contexto das questões do meio ambiente com os cálculos financeiros de uma empresa para ajudar no processo de tomada de decisão por parte dos gestores.`,
+          titulo: `Sistemas de controle - `,
+          texto: `Esse segmento abrange o projeto, construção, instalação e testes de sensores e instrumentos que farão o controle do veículo.
+
+          São definidas as especificações desses mecanismos que controlam os componentes da aeronave, como o trem de pouso, a alimentação de combustível e a pressurização da cabine.`,
         },
         {
-          titulo: `Ciências Contábeis Internacionais - `,
-          texto: `A Contabilidade Internacional é uma ramificação que está em contínua expansão, devido ao fato de estarmos em um mercado cada vez mais globalizado, com negociações e transações que atravessam fronteiras em questão de segundos.`,
+          titulo: `Manutenção  - `,
+          texto: `Nessa área, o engenheiro atua na manutenção (preditiva e preventiva) e fiscalização de aeronaves e de seus componentes. São feitos reparos e inspeções periódicas em toda a estrutura e em seus sistemas.`,
         },
         {
-          titulo: `Ciências Contábeis Bancárias - `,
-          texto: `Quando falamos de Contabilidade Bancária, referimo-nos à ciência que analisa os índices financeiros de patrimônio dos bancos e os auxilia a realizar as escolhas certas para investimentos e operações econômicas, além de garantir uma excelente administração do dinheiro destas instituições. `,
+          titulo: `Coordenação de tráfego aéreo - `,
+          texto: `Fica a cargo do profissional garantir a segurança de um voo. Ele estuda e gerencia o fluxo das aeronaves, a velocidade, rota e altitude, atentando-se para as condições meteorológicas e cartográficas do espaço aéreo. `,
         },
         {
-          titulo: `Ciências Contábeis Imobiliárias  - `,
-          texto: `Com estes e demais indicadores importantes, o contador da área imobiliária auxilia as empresas e pessoas físicas a tomarem decisões mais assertivas em investimentos e aplicações financeiras no setor.`,
+          titulo: `Desenvolvimento de tecnologias  - `,
+          texto: `Aqui, o engenheiro aeronáutico é responsável pela criação de novas tecnologias e pelo gerenciamento da utilização das tecnologias disponíveis e viáveis, para melhorar o desempenho de aeronaves.
+
+          Essas são pequenas prévias das atribuições de um engenheiro aeronáutico. Qual delas te chamou mais atenção?`,
         },
       ],
-      titulo3: `Qual é o perfil do profissional formado em Ciências Contábeis:`,
-      subtexto: `O perfil do profissional de contabilidade precisa ser analítico e com bom raciocínio lógico, afim de entender e mensurar os dados financeiros e patrimoniais da organização, efetuando análises e previsões de mercado. O contador é uma peça fundamental do meio organizacional`,
+      titulo3: `Qual é o perfil do profissional formado em Engenharia Aeronáutica:`,
+      subtexto: `O engenheiro aeronáutico também possui habilidades para projetar, construir e instalar sistemas de aeronaves, como motores, instrumentos de controle, sensores, pressurização, entre outros, ou seja, precisa gostar de contas e matemática, e deve ser paciênte e bom em trabalho em equipe, já que é preciso de uma quantidade consideravel de pessoas para finalizar um projeto.`,
       caracteristica: [
         'Matemática',
-        'Administração',
-        'Organização',
-        'Economia',
-        'Estatatística',
+        'Meio Ambiênte',
+        'Mecânica',
+        'Física',
+        'Aerodinâmica',
+      ],
+    },
+    8: {
+      titulo: 'Engenharia Aeroespacial',
+      avaliacao: 5,
+      imagem: 'imgs/aeroespacial.jpg',
+      remuneracao: ' R$ 6.661,00',
+      empregados: '733 mil',
+      textoprincipal: [
+        'A área de Engenharia Aeroespacial lida, entre outras coisas, com o processo de projetar, criar, construir e fabricar qualquer artefato que voe. Jatos, helicópteros e espaçonaves, por exemplo, fazem parte deste campo, que tem dois principais ramos: Engenharia Aeronáutica e Engenharia Astronáutica.'
+      ],
+      tituloramificacao: `A área de Engenharia Aeroespacial abre portas para muitas ramificações importantes e o profissinal pode trabalhar em várias áreas, como:`,
+      ramificacao: [
+        {
+          titulo: `Desenvolvedor de tecnologias - `,
+          texto: `Nessa área, o profissional vai desenvolver tecnologias inovadoras e sistemas defensivos para serem usados no setor da aviação.`,
+        },
+        {
+          titulo: `Designer Estrutural - `,
+          texto: `Atuar no design estrutural de aeronaves, com o controle e navegação ou ainda com a produção dos sistemas de comunicação espaciais.`,
+        },
+        {
+          titulo: `Manutenção - `,
+          texto: `Trabalha na manutenção de aviões, em grandes empresas aéreas, e institutos de pesquisa, como o Instituto Nacional de Pesquisas Espaciais (INPE). `,
+        },
+      ],
+      titulo3: `Qual é o perfil do profissional formado em Engenharia Aeroespacial:`,
+      subtexto: `Primeiramente, a pessoa deve ter facilidade e afinidade com as ciências exatas. Porém, apenas isso pode não ser suficiente, pois essa área apresenta uma grande gama de possibilidades de atuação. Por isso, o engenheiro precisa ter familiaridade com outros campos do conhecimento, principalmente se deseja estudar para concursos públicos. Nessa situação, é muito importante conhecer bastante sobre Informática e Língua Portuguesa. Além dessa questão, os engenheiros desse segmento costumam ser detalhistas, organizados e têm facilidade para trabalhar em equipe. `,
+      caracteristica: [
+        'Matemática',
+        'Física',
+        'Mecânica',
+        'Trabalho em equipe',
+        'Computação',
+      ],
+    },
+    9: {
+      titulo: 'Design Gráfico',
+      avaliacao: 5,
+      imagem: 'imgs/design.jpg',
+      remuneracao: ' R$ 4.005,00',
+      empregados: '890 mil',
+      textoprincipal: [
+        'O designer está habilitado para desenvolver projetos gráficos de comunicação visual, como panfletos, cartões de visita, elaboração de web sites, pôsteres e logotipos. Os profissionais também podem atuar com criação do design de embalagens e produtos, como vestuário, móveis, calçados, automóveis, etc. '
+      ],
+      tituloramificacao: `A área de Design Gráfico abre portas para muitas ramificações importantes e o profissinal pode trabalhar em várias áreas, como:`,
+      ramificacao: [
+        {
+          titulo: `Design digital - `,
+          texto: `Se o designer gráfico é responsável por toda a comunicação impressa de uma companhia, o digital é focado nos tipos de mídia eletrônica e online, como edição de vídeos e animações, além de desenvolvimento de aplicativos, sites e jogos.`,
+        },
+        {
+          titulo: `Desenho de embalagens e produtos - `,
+          texto: `Formatos diferenciados, uma boa composição de cores ou grafismos e layouts criativos fazem, certamente, toda a diferença na hora de destacar um produto em meio a tantos concorrentes, não é mesmo? Daí vem a importância do designer de embalagens e produtos`,
+        },
+        {
+          titulo: `Identidade visual - `,
+          texto: `Também conhecida como “branding”, essa área engloba toda a gestão de uma marca, considerando todos os elementos que a representam visualmente, caracterizando a sua assinatura institucional`,
+        },
+        {
+          titulo: `Programação visual - `,
+          texto: `O objetivo da programação visual é comunicar visualmente uma determinada mensagem, utilizando um meio gráfico, considerando a percepção do público-alvo e fazendo uso de um conjunto de ferramentas.`,
+        },
+      ],
+      titulo3: `Qual é o perfil do profissional formado em Design Gráfico:`,
+      subtexto: `As principais caractérias que o profissional deve ter são: criatividade, facilidade com tecnologias, bom senso estético, trabalho em equipe, vontade de aprender, ter estilo próprio. `,
+      caracteristica: [
+        'Design',
+        'Computadores',
+        'Arte',
+        'Trabalho em equipe',
+        'Criatividade',
+      ],
+    },
+    10: {
+      titulo: 'Medicina Veterinária',
+      avaliacao: 5,
+      imagem: 'imgs/medicina-veterinaria.jpg',
+      remuneracao: ' R$ 4.212,00',
+      empregados: '890 mil',
+      textoprincipal: [
+        'O médico veterinário dá assistência clínica e cirúrgica a animais domésticos e silvestres. Ele cuida da saúde, alimentação e reprodução de rebanhos, e inspeciona a produção de alimentos de origem animal. Neste caso, verifica o cumprimento das normas de higiene nas indústrias, a fim de evitar a transmissão de doenças para o ser humano.'
+      ],
+      tituloramificacao: `A área de Medicina Veterinária abre portas para muitas ramificações importantes e o profissinal pode trabalhar em várias áreas, como:`,
+      ramificacao: [
+        {
+          titulo: `Área de animais de Grande Porte - `,
+          texto: `Este profissional geralmente trabalha em campo atendendo os rebanhos bovinos, caprinos e equinos.`,
+        },
+        {
+          titulo: `Área de Animais Silvestres - `,
+          texto: `O médico veterinário trabalhará em zoológicos, fazenda de criação de répteis ou avestruz. Ou ainda, instituições privadas ou públicas que precisam de remoção de animais silvestres de áreas de construção de estradas, alagamentos entre outras situações.`,
+        },
+        {
+          titulo: `Área de Animais de Pequeno Porte - `,
+          texto: `Esta é a mais popular! A atuação do médico veterinário neste caso se refere ao atendimento clínico de cães e gatos. Além disso, o profissional presta serviços cirúrgicos, vacinação e procedimentos ambulatoriais.`,
+        },
+      
+      ],
+      titulo3: `Qual é o perfil do profissional formado em Medicina Veterinária:`,
+      subtexto: `Podemos dizer que as principais características incluem amor pelos animais, controle emocional, comunicação empática e capacidade decisória.`,
+      caracteristica: [
+        'Química',
+        'Biologia',
+        'Animais',
+        'Psicologia',
+        'Fisiologia',
       ],
     },
   }
