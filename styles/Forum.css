@@ -1,12 +1,17 @@
 /* Header */
 
+*{
+    max-width: 100%;
+}
+
+
 .header{
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin: 0px !important;
     max-width: 100%;
-    background-color: rgba(67, 209, 207, 0.35);
+    background-color: rgba(63, 63, 63, 0.35);
 }
 
 /* mobile changes */
@@ -50,7 +55,7 @@
 
 .logo{
     max-width: 150px;
-    max-height: 56px;
+    max-height: 80px;
     padding-left: 10px;
 }
 
@@ -74,6 +79,8 @@
 /****************************************************************************/
 
 /* Main */
+
+
 
 .row a:hover{
     margin: 0;
@@ -118,7 +125,7 @@ button {
 /* Footer */
 
 .footer{
-    background-color: rgba(67, 209, 207, 0.35);
+    background-color: rgba(44, 44, 44, 0.35);
     max-width: 100% !important;
     margin: 0px !important;
     justify-content: center;
